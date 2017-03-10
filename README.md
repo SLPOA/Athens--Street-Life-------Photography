@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Street Life photography of Athens new website
+Whoever is curious what is it about, can see more on [wixsite adress] ( http://malamatina.wixsite.com/streetlife)
+I used wixsite because it is the convinient for managing photos, and galleries, for photoportfolios, and showcases. 
+This is a tranzit to new more documentary-oriented base of photographies, and other materials, such as videos, texts etc.
 
-You can use the [editor on GitHub](https://github.com/SLPOA/redesigned-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### "Street Life photography of Athens"
+consists mainly of some photographies made from 2010. to 2014. in Greece. It's collection of pictures from the streets,wall-graffiti, protests,banners, festivals, placates (posters), urban architecture, urban gardens, vehicles, people.
 
 ```markdown
-Syntax highlighted code block
+# Street art
+## Grafitti
+### Photography   
+- Protest 
+- Banners
+- Festivals
+- Placates
+- Urban architecture
+- Urban gardens
+- Vehicles
+- People
 
-# Header 1
-## Header 2
-### Header 3
+1. Travel photography
+2. Old historical places
+3. Modern historical places 
+4. Greek Crises 
+5. Anarshist and occupy movement
+``` 
+For more details see [Street Life Photography Of Athens] ( http://malamatina.wixsite.com/streetlife) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLPOA/redesigned-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Athens - connection of antient and modern life
+It is a kind of guide throw the city (anti-turistic) maybe more in a spirit of "avantourism", and rewilding known, 
+nature oriented, anarcho-primitivsm, psycho-geography, with new mythology.  Also anti-history,in Nietzschean sense, and anti-ideology, anti-civilisation (in Russo's sense).
+### Support and contact 
+Any suggestions and contributions are welcome. 
+*SLPOA (Street Life Photography Of Athens)* 
+*...soon will be anounced a new project.*
+*Stay tuned, and in good health!*
