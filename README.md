@@ -23,7 +23,7 @@ consists mainly of some photographies made from 2010. to 2014. in Greece. It's c
 2. Old historical places
 3. Modern historical places 
 4. Greek Crises 
-5. Anarshist and occupy movement
+5. Anarchist and occupy movement
 ``` 
 For more details see [Street Life Photography Of Athens] ( http://malamatina.wixsite.com/streetlife) 
 
